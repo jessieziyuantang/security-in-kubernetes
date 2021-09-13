@@ -9,3 +9,36 @@
 
 <img src="../img/cis_download.png" width="80%" height="80%"/>
 
+
+
+```bash
+
+##Run a wget cli in your node, similar as below; 
+wget https://learn.cisecurity.org/e/799323/l-799323-2019-11-15-3v7x/7xxxxxxxx
+mv 7xxxxxxx CIS-Cat.zip
+```
+
+3. Install the 'unzip' command and extract all the files.
+
+```bash
+sudo apt-get update ; sudo apt-get install unzip
+
+sleep 10
+
+unzip CIS-Cat.zip
+
+cd Assessor-CLI
+```
+
+4. The assessment tool requires JAVA. Install the software then set the JAVA_PATH variab
+
+```bash
+sudo apt-get install openjdk-11-jdk -y
+
+sleep 10
+
+export JAVA_PATH=/usr/lib/jvm/java-11-openjdk-amd64/bin/
+```
+
+
+5. Run the program again, this time pass the-ioption. When theSelect Contentprompt appears enter the number5,to assess Ubuntu.

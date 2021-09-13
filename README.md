@@ -13,7 +13,8 @@ The purpose of this repo is :
 ## Workshop modules
 
 
-- [Module 0: Run CIS-CAT benchmark in your node](modules/cis.md)
+- [Module 1: Run CIS-CAT benchmark in your node](modules/cis.md)
+- [Module 2: Check images with Trivy before deploying ](modules/trivy.md)
 
 
 

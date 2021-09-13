@@ -7,5 +7,5 @@
 
 2. Download it to our exercise node. Hover with the mouse over versionv4and copy the link. Then log into your exercise node and usethewgetcommand to retrieve the file.
 
-![cis download](img/cis_download.png)
+<img src="img/cis_download.png" width="100%"/>
 

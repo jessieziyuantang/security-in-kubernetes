@@ -10,7 +10,9 @@ The purpose of this repo is :
 
 Reference:
 
-![workload protection](../img/workload_protection.png)
+<img src="img/workload_protection.png" width="100%"/>
+
+
 
 
 ## Workshop modules

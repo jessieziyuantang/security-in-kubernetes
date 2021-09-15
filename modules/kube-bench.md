@@ -1,3 +1,8 @@
+# Run kube benchmark in your cluster
+
+
+> 
+
 1. Download the Aquasecuritykube-benchbinary.   
 
    ```bash
@@ -21,4 +26,12 @@
    ```bash
    sudo kube-bench
    ```
-
+   
+   Similar output is:
+   ```bash
+   == Summary ==
+   0 checks PASS
+   0 checks FAIL
+   24 checks WARN
+   0 checks INFO
+   ```

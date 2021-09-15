@@ -1,3 +1,8 @@
+# Info about how to mitigate your kernel security concerns
+
+
+> [CIS-CAT Lite](https://learn.cisecurity.org/cis-cat-lite)is the free assessment tool developed by the CIS (Center for Internet Security, Inc.). CIS-CAT Lite helps users implement secure configurations for multiple technologies. With unlimited scans available via CIS-CAT Lite, your organization can download and start implementing CIS Benchmarks in minutes.
+
 1. Blocking Dynamic Module for against rootkits
 
 2. kernel.modules_disabled -- writing as "1" after the system has booted
